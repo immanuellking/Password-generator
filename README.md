@@ -1,1 +1,1 @@
-# A suimple Javavscript app that generates random password.
+# A simple Javavscript app that generates random password.
